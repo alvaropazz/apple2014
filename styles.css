@@ -67,9 +67,10 @@ footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  align-content: center;
+  align-items: baseline;
   padding-left: 15%;
   padding-right: 15%;
+  color: #6e6e6e;
 }
 
 .store-info {
@@ -89,4 +90,9 @@ li {
   border-right: 1px solid #999;
   padding-right: 2px;
   padding-left: 2px;
+}
+
+a {
+  color: #0088cc;
+  text-decoration: none;
 }
