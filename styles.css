@@ -1,5 +1,92 @@
 body {
+  height: 828px;
+  min-width: 1080px;
   display: grid;
   grid-template-rows: 65% 24% 11%;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-container {
+  position: relative;
+  background-image: url(images/your_verse_hero_2x.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: 0 100%;
+}
+
+.text-container {
+  position: absolute;
+  width: 100%;
+  height: 62%;
+  top: 19%;
+}
+
+.previews {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 100%;
+  min-height: 100%;
+}
+
+.preview-boxes {
+  margin: 1%;
+}
+
+.first {
+  background-image: url(images/1st.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  cursor: pointer;
+}
+
+.second {
+  background-image: url(images/2nd.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  cursor: pointer;
+}
+
+.third {
+  background-image: url(images/3rd.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  cursor: pointer;
+}
+
+.fourth {
+  background-image: url(images/4th.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  cursor: pointer;
+}
+
+footer {
+  padding-top: 1%;
+  font-size: 10px;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: center;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.store-info {
+  width: 40%
+}
+
+ul {
+  padding: 0;
+  width: 60%;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  align-items: center;
+}
+
+li {
+  border-right: 1px solid #999;
+  padding-right: 2px;
+  padding-left: 2px;
 }
