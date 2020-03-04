@@ -1,73 +1,38 @@
-# Project Name
+# Building with Backgrounds and Gradients
 
-> One paragraph statement about the project.
+> This is a clone of the 2014 apple.com homepage.
 
-![screenshot](./app_screenshot.png)
+![screenshot](images/project-screenshot.png)
 
-Additional description about the project and its features.
+This project uses flexbox, grid and css positioning to create a clone of the 2014 apple.com homepage.
+Additionally, the project uses background images and color gradients to style the html.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML, CSS,
+- Visual Studio Code
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Live Demo Link](https://alvaropazz.github.io/apple2014/)
 
 ## Authors
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@alvaropazz](https://github.com/alvaropazz)
+- Twitter: [@alvaropazz](https://twitter.com/alvaropazz)
+- Linkedin: [linkedin](https://www.linkedin.com/in/alvaropaz/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/alvaropazz/apple2014/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
