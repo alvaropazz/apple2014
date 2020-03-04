@@ -80,7 +80,7 @@ input:focus {
   text-align: center;
 }
 
-.fa-apple:before {
+.fa-apple::before {
   content: "\f179";
   color: #fff;
 }
@@ -110,7 +110,6 @@ input:focus {
   color: #fff;
   width: 100%;
   text-align: center;
-  height: 10%;
 }
 
 .central-description {
@@ -124,7 +123,6 @@ input:focus {
   top: 66%;
   font-size: 25px;
 }
-
 
 .previews {
   display: grid;
@@ -199,6 +197,6 @@ li {
 }
 
 .footer-item {
-  color: #0088cc;
+  color: #08c;
   text-decoration: none;
 }
