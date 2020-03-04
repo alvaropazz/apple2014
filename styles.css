@@ -73,12 +73,29 @@ input:focus {
   border-right: 1px solid #555;
 }
 
+.navbar-links {
+  color: #fff;
+  text-decoration: none;
+  width: 100%;
+  text-align: center;
+}
+
+.fa-apple:before {
+  content: "\f179";
+  color: #fff;
+}
+
 .text-container {
   font-size: 25px;
   font-weight: lighter;
   position: absolute;
   width: 100%;
   height: 100%;
+}
+
+.central-links {
+  color: #fff;
+  text-decoration: none;
 }
 
 .central-title {
